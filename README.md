@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jmeosbn
 
 - 📫 How to reach me ...
-  - I am on <a rel="me" href="https://mas.to/@jmeosbn">Mastodon</a>
+  - I am on <a rel="me" href="https://mas.to/@jmeosbn" rel="me">Mastodon</a>
 
 <!---
 jmeosbn/jmeosbn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
